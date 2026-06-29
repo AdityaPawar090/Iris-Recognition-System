@@ -1,4 +1,6 @@
-clc; clear; close all;
+clc; 
+clear; 
+close all;
 disp("STEP 1: FEATURE EXTRACTION FOR MMU IRIS DATASET")
 
 datasetPath = "MMU-Iris-Database";
