@@ -1,4 +1,6 @@
-clc; clear; close all;
+clc; 
+clear; 
+close all;
 disp("STEP 2: TRAINING AND COMPARISONS")
 
 load irisFeatures.mat
